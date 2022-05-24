@@ -51,10 +51,13 @@
 * Check `info.py` in this code for more variables
 
 
-## Deploy
-You can deploy this bot anywhere.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/sachin9742s/srinidhi-Shetty-Bot)</br>
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://github.com/sachin9742s/srinidhi-Shetty-Bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
